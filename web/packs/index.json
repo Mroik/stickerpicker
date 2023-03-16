@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "LINE_Menhera_chan.json",
+    "Lundiniooc.json",
+    "localmonero.json"
+  ],
+  "homeserver_url": "https://matrix.spongeball.xyz"
+}
