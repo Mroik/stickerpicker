@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "Mroiksutility.json",
+    "LINE_Menhera_chan.json"
+  ],
+  "homeserver_url": "https://matrix.private.coffee"
+}
